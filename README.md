@@ -1,2 +1,1 @@
-# class34
-bunny game 2.0
+# C34_template_code
